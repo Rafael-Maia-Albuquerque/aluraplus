@@ -1,1 +1,0 @@
-<img src"https://github.com/Rafael-Maia-Albuquerque/aluraplus/blob/main/img/Logo.png">
