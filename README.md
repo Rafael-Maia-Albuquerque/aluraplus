@@ -1,1 +1,1 @@
-[Logo do Alura+](https://github.com/Rafael-Maia-Albuquerque/aluraplus/blob/main/img/Logo.png)
+<img src"https://github.com/Rafael-Maia-Albuquerque/aluraplus/blob/main/img/Logo.png">
